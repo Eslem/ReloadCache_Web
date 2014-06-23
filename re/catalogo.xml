@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<catalogo>
+	<nombre_catalogo>Catálogo Apple iPhone</nombre_catalogo>
+	<banner_catalogo>https://www.apple.com/euro/iphone-5s/a/generic/home/images/forward_hero_mba_11.png</banner_catalogo>
+	<web_catalogo>http://www.apple.com/es/iphone/</web_catalogo>
+	<articulo ref="iPhone5s" foto="http://images.apple.com/es/iphone/compare/images/compare_iphone5s.jpg" web="http://www.apple.com/es/iphone-5s" promo="si">
+		<desc_corta>iPhone 5s</desc_corta>
+		<desc_larga>
+			El iPhone 5s está disponible en plata, oro y gris espacial.
+			Incorpora el chip A7, sensor de identidad por huella dactilar Touch ID,
+			conexión inalámbrica ultrarrápida,
+			cámara iSight de 8 megapíxeles con un sensor más grande y iOS 7. 
+		</desc_larga>
+		<precio>699,00</precio>
+	</articulo>
+	<articulo ref="iPhone5c" foto="http://images.apple.com/es/iphone/compare/images/compare_iphone5c.jpg" web="http://www.apple.com/es/iphone-5c" promo="si">
+		<desc_corta>iPhone 5c</desc_corta>
+		<desc_larga>
+			El iPhone 5c está disponible en verde, azul, amarillo, rosa y blanco.
+			Incorpora el chip A6, conexión inalámbrica ultrarrápida, cámara iSight de 8 megapíxeles y iOS 7. 
+		</desc_larga>
+		<precio>599,00</precio>
+	</articulo>
+	<articulo ref="iPhone4s" foto="http://images.apple.com/es/iphone/compare/images/compare_iphone4s.jpg" web="http://www.apple.com/es/iphone-4s" promo="no">
+		<desc_corta>iPhone 4s</desc_corta>
+		<desc_larga>
+			El iPhone 4s está disponible en negro y blanco.
+			Tiene el chip A5, cámara iSight de 8 megapíxeles y Siri, el ayudante inteligente que controlas con la voz.
+		</desc_larga>
+		<precio>399,00</precio>
+	</articulo>
+	<copyright>2014, Copyleft: el autor de este documento permite que sea copiado, modificado y distribuido.</copyright>
+</catalogo>

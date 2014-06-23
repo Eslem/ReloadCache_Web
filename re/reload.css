@@ -1,0 +1,74 @@
+.body{
+	background-color: #eee;
+	padding:20px;
+}
+.contenido{
+	text-align: center;
+	width:60%;
+	margin-right: auto;
+	margin-left: auto;  
+}
+
+.lista{
+	width:50%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.th{
+ 	text-align: center;
+}
+.td{
+ 	width:auto;
+}
+
+.div1{
+	padding:5px;
+	border:2px solid #428BCA;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px #888;
+	background-color: #fff;
+}
+
+#cacheada{
+ 	width:75%;
+ 	margin-right: auto;
+	margin-left: auto;
+}
+#NoCacheada{
+ 	width:75%;
+ 	margin-right: auto;
+	margin-left: auto;
+}
+
+.div2{
+	padding:5px;
+	margin-top:20px;
+	border:2px solid #428BCA;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px #888;
+	background-color: #fff;
+}
+
+
+#reload{
+	position: fixed;
+	bottom: 25px;
+	right: 50px;
+	background-color: #000;
+	color:white;
+	padding:20px;
+	border:2px solid #aaa;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px #444;
+	text-align:center;
+}
+
+#nombreLibreria{
+	margin-top:-15px;
+}
+
+#divBar2{
+	display:none;
+}
